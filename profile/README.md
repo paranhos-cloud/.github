@@ -34,9 +34,8 @@ steps:
 
 ### Código aberto
 
-<a href="https://github.com/paranhos-cloud/deploy-action"><picture><source media="(prefers-color-scheme: light)" srcset="assets/repo-deploy-action-light.svg" /><img src="assets/repo-deploy-action-dark.svg" width="32%" alt="deploy-action" /></picture></a>
-<a href="https://github.com/paranhos-cloud/docs"><picture><source media="(prefers-color-scheme: light)" srcset="assets/repo-docs-light.svg" /><img src="assets/repo-docs-dark.svg" width="32%" alt="docs" /></picture></a>
-<a href="https://github.com/paranhos-cloud/componenty-engine"><picture><source media="(prefers-color-scheme: light)" srcset="assets/repo-componenty-engine-light.svg" /><img src="assets/repo-componenty-engine-dark.svg" width="32%" alt="componenty-engine" /></picture></a>
+<a href="https://github.com/paranhos-cloud/deploy-action"><picture><source media="(prefers-color-scheme: light)" srcset="assets/repo-deploy-action-light.svg" /><img src="assets/repo-deploy-action-dark.svg" width="49%" alt="deploy-action" /></picture></a>
+<a href="https://github.com/paranhos-cloud/docs"><picture><source media="(prefers-color-scheme: light)" srcset="assets/repo-docs-light.svg" /><img src="assets/repo-docs-dark.svg" width="49%" alt="docs" /></picture></a>
 
 <br />
 

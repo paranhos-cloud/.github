@@ -385,7 +385,6 @@ def how(theme: str) -> str:
 REPOS = [
     ("deploy-action", ["Action que faz o build no seu GitHub", "e publica o site na Paranhos Cloud."], "Shell", "#89e051"),
     ("docs", ["Código-fonte de docs.paranhos.cloud,", "feito com Next.js e Fumadocs."], "MDX", "#fcb32c"),
-    ("componenty-engine", ["Motor do Componenty, construído", "sobre a Godot Engine."], "C++", "#f34b7d"),
 ]
 
 
